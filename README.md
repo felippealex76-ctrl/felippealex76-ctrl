@@ -27,11 +27,11 @@ Estou no início da minha trajetória profissional e venho construindo minha bas
 
 **Concluídos**
 - **Sistema de Biblioteca (C)** — cadastro de usuários e livros, controle de disponíveis/emprestados, associação usuário–livro e registro de devoluções
-- **Sistema de Compra de Ingressos (C)** — projeto de estudo de lógica e regras de negócio
 - **Biblioteca de Vetores (C)** — estatísticas numéricas: soma, média, maior/menor valor, dobrar valores
 - **Calculadora (C)** — prática de lógica de programação
 
 **Em desenvolvimento**
+- **Sistema de Compra de Ingressos (C)** — projeto de estudo de lógica e regras de negócio
 - **Servidor HTTP em C** — construção de um servidor HTTP do zero
 - **Assistente de Voz (Python)**
 
